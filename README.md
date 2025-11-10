@@ -5,6 +5,6 @@
 
 <p align="center"> <b>License & Credits</b></p>
 
-- License: MIT — see ``` LICENSE ```
+- License: MIT
 - Author: ricci
 - Repository: new-season-public-bot
